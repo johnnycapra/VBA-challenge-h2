@@ -61,3 +61,7 @@ Greatest Total Volume (5 points)
 
 Looping Across Worksheet (20 points)
 The VBA script can run on all sheets successfully.
+
+Resources: 
+
+https://www.tutorialspoint.com/vba/vba_arrays.htm
